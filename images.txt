@@ -1,5 +1,6 @@
-tindy2013/subconverter:latest
-node:18.13.0
-node:18.20.4-bookworm
-node:18.20.4-bookworm-slim
-ubuntu:24.04
+# tindy2013/subconverter:latest
+# node:18.13.0
+# node:18.20.4-bookworm
+# node:18.20.4-bookworm-slim
+node:18.16.1-bookworm
+# ubuntu:24.04
