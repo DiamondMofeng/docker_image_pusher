@@ -2,5 +2,7 @@
 # node:18.13.0
 # node:18.20.4-bookworm
 # node:18.20.4-bookworm-slim
-node:18.16.1-bookworm
+# node:18.16.1-bookworm
 # ubuntu:24.04
+python:3.8-slim-bullseye
+paddlecloud/paddleocr
