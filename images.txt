@@ -6,4 +6,5 @@
 # ubuntu:24.04
 # python:3.8-slim-bullseye
 # paddlecloud/paddleocr
---platform=linux/arm64 node:18.16.1-bookworm
+# --platform=linux/arm64 node:18.16.1-bookworm
+postgres:16.8
