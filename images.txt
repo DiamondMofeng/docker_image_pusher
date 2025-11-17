@@ -11,4 +11,5 @@
 # paddlecloud/paddleocr
 # --platform=linux/arm64 node:18.16.1-bookworm
 # postgres:16.8
-milvusdb/milvus
+# milvusdb/milvus
+mindsdb/mindsdb
