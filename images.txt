@@ -13,4 +13,5 @@
 # postgres:16.8
 # milvusdb/milvus
 # mindsdb/mindsdb
-alpine:3.19
+# alpine:3.19
+--platform=linux/arm64 alpine:3.19
