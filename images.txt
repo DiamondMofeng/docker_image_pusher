@@ -12,4 +12,5 @@
 # --platform=linux/arm64 node:18.16.1-bookworm
 # postgres:16.8
 # milvusdb/milvus
-mindsdb/mindsdb
+# mindsdb/mindsdb
+alpine:3.19
