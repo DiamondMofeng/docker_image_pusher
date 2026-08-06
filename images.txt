@@ -3,14 +3,15 @@
 # node:18.20.4-bookworm
 # node:18.20.4-bookworm-slim
 # node:18.16.1-bookworm
-node:22.19.0-bookworm-slim
+node:20-alpine 
+# node:22.19.0-bookworm-slim
+# --platform=linux/arm64 node:18.16.1-bookworm
 # ubuntu:24.04
 # python:3.8-slim-bullseye
 # python:3.10
 # python:3.11
 # python:3.12
 # paddlecloud/paddleocr
-# --platform=linux/arm64 node:18.16.1-bookworm
 # postgres:16.8
 # milvusdb/milvus
 # mindsdb/mindsdb
