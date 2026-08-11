@@ -3,7 +3,8 @@
 # node:18.20.4-bookworm
 # node:18.20.4-bookworm-slim
 # node:18.16.1-bookworm
-node:20-alpine 
+# node:20-alpine
+node:22.19.0-bookworm
 # node:22.19.0-bookworm-slim
 # --platform=linux/arm64 node:18.16.1-bookworm
 # ubuntu:24.04
